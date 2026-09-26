@@ -9,9 +9,9 @@ I am interested in **programming**, **3D** **modeling** and **printing**, and **
 - simple calculator for BMI [BMI Calculator](https://github.com/VeselyMatej/BMI-Calc)    
 
 ## 🔧 Development tools and environments
-- 🖥️ **Languages**: Python, HTML, basics of JavaScript
-- 🎨 **3D environment**: Blender, Plasticity
-- 🛠️ **Others**: Git, Github, Sketchfab, VS Code, PyCharm, WebStorm, VM Ware
+- 🖥️ **Languages**: Python, C#, HTML, basics of JavaScript
+- 🎨 **3D environment**: Blender, Plasticity, Fusion
+- 🛠️ **Others**: Git, Github, Sketchfab, VS Code, PyCharm, WebStorm, VM Ware, Rider
   - 🐧 experiences with Linux
 
 <p align="left">
@@ -27,7 +27,7 @@ I am interested in **programming**, **3D** **modeling** and **printing**, and **
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeselyMatej&hide=html&layout=compact)
 
 ## 📖 What am I learning
-- **C#**: Trying to master object-oriented programming and understand the basics of C#.
+- **C#**: Trying to master object-oriented programming.
 - **Fusion360**: Learning the basics of 3d modeling in this CAD sw.
 - 🌐 **Cybersecurity**: Exploring the fundamentals of ****ethical hacking**** and ****network**** security.
 
