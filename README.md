@@ -2,7 +2,7 @@
 
 
 ## About me ツ
-I am interested in **programming**, **3D** **modeling** and **printing**, and **cybersecurity**.
+I am interested in **programming**, **3D** **modeling** and **printing**, **cybersecurity**, and **AI**.
 
 ## ✏️ My projects 
 - 2D arcade game [WingSquad](https://github.com/VeselyMatej/WingSquad)         (older school project :)
